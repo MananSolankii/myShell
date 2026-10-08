@@ -1,0 +1,18 @@
+# Compiled shell executables
+/myshell
+/myShell
+/a.out
+
+# Build artifacts
+*.o
+*.exe
+/build/
+
+# Editor backup files
+*~
+*.swp
+*.swo
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
